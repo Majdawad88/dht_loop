@@ -1,3 +1,5 @@
+#git clone https://github.com/Majdawad88/dht_loop.git
+
 import RPi.GPIO as GPIO
 import dht11
 import time
